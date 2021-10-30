@@ -59,7 +59,7 @@ function Profile() {
                         </div>
                         <div className="info">
                             <Typography variant="h5">
-                                Name : {userData.fullname}
+                                Nam e : {userData.fullname}
                             </Typography>
                             <Typography variant="h6">
                                 Posts : {userData.postIds.length}
