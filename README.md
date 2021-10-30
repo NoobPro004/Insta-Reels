@@ -1,3 +1,8 @@
+# Go check it out here -> 
+
+# https://insta-reels-f3bca.web.app/login
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Signup Page
+
+![alt text](https://github.com/NoobPro004/Insta-Reels/blob/master/ScreenShots/Signup.png)
+
+## Login Page 
+
+![alt text](https://github.com/NoobPro004/Insta-Reels/blob/master/ScreenShots/Login.png)
+
+## Feed page
+
+![alt text](https://github.com/NoobPro004/Insta-Reels/blob/master/ScreenShots/Feed.png)
+
+## Profile Page
+
+![alt text](https://github.com/NoobPro004/Insta-Reels/blob/master/ScreenShots/Profile.png)
+
+## Comment Modal
+
+![alt text](https://github.com/NoobPro004/Insta-Reels/blob/master/ScreenShots/Comment.png)
