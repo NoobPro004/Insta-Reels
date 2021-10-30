@@ -6,6 +6,7 @@ import Login from './Components/Login'
 import {AuthProvider} from './Context/AuthContext'
 import Feed from './Components/Feed'
 import PrivateRoute from './Components/PrivateRoute';
+import Profile from './Components/Profile';
 function App() {
   return (
     <BrowserRouter>
@@ -13,6 +14,7 @@ function App() {
       <Switch>
     <Route path="/login" component={Login}/>
     <Route path="/signup" component={Signup}/>
+    <PrivateRoute path="/profile/:id" component={Profile}></PrivateRoute>
     <PrivateRoute path ="/" component={Feed}></PrivateRoute>
     </Switch>
     </AuthProvider>
