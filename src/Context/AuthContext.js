@@ -37,7 +37,6 @@ export function AuthProvider({children}){
         login,
         logout
     }
-
     return (
         <AuthContext.Provider value={store}>
             {!loading && children}
