@@ -1,6 +1,6 @@
 # Go check it out here -> 
 
-# https://insta-reels-f3bca.web.app/login
+# https://insta-reels-f3bca.web.app
 
 
 # Getting Started with Create React App
